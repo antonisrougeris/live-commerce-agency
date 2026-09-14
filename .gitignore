@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+.vercel
+serviceAccountKey.json
+*.log
+.DS_Store
+livecommerce-c6a2c-firebase-adminsdk-*.json
